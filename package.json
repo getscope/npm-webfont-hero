@@ -1,0 +1,27 @@
+{
+    "name": "@getscope/npm-webfont-hero",
+    "private": true,
+    "version": "1.0.0",
+    "description": "Package to install webfont: Hero.",
+    "keywords": [
+        "getscope",
+        "npm",
+        "webfont",
+        "hero"
+    ],
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "homepage": "https://github.com/getscope/npm-webfont-hero",
+    "license": "MIT",
+    "author": {
+        "name": "bu0nq",
+        "email": "hello@bu0nq.ru",
+        "homepage": "https://bu0nq.ru",
+        "role": "Developer"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/getscope/npm-webfont-hero.git"
+    }
+}
