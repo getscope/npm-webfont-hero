@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Hero';
+    src: local('Hero Bold'), local('Hero-Bold'),
+    url('../../fonts/hero-700-normal.woff2') format('woff2'),
+    url('../../fonts/hero-700-normal.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
